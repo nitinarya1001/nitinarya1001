@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://nitinarya1001.github.io/nitinarya1001/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://nitinarya.in)**
 
 - 💬 Ask me about **Linux & DevOps**
 

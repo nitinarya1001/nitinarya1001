@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nitinarya1001@gmail.com**
 
-- ⚡ Fun fact **I am bald**
+- ⚡ Fun fact **I am bald :P**
 
 ### Connect with me:
 

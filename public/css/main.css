@@ -1018,6 +1018,11 @@ li {
   background: color-mix(in srgb, var(--accent-color), transparent 25%);
 }
 
+.contact .required::after {
+  content: " *";
+  color: red;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/

@@ -1,0 +1,9 @@
+node_modules
+dockerfile
+.dockerignore
+package-lock.json
+.gitignore
+README.md
+.prettierignore
+.git
+portfolioDeploy.sh

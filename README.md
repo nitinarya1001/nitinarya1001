@@ -2,7 +2,7 @@
 
 #### A dedicated software developer and an avid problem solver. I am a passionate Linux power user who excels at configuring, managing, and troubleshooting complex operating systems. Beyond the command line, I deliver complete web development solutions, seamlessly handling everything from secure backend hosting to building dynamic frontend user experiences. Along with all that I am also learning about app development with React native and Expo
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://nitinarya.in)**
 

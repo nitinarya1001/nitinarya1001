@@ -25,7 +25,7 @@ if [ "$LOCAL" != "$REMOTE" ]; then
     docker build -t portfolio_app .
 
     echo "Starting the new 'portfolio_webapp' container..."
-    docker run -d --name portfolio_webapp -p $LOCAL_PORT:$CONTAINER_PORT portfolio_app
+    docker run -d --name portfolio_webapp --restart unless-stopped -p $LOCAL_PORT:$CONTAINER_PORT portfolio_app
 
     echo "Deployment successful."
 fi

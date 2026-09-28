@@ -1,4 +1,4 @@
-FROM node
+FROM node:jod-alpine
 WORKDIR /app
 COPY package.json ./
 RUN npm install
